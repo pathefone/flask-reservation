@@ -1,7 +1,7 @@
 body {
-  background: #121212;
+  background: #eeeee4;
 }
 
-.bg-black {
-  background: #090909 !important;
+.bg {
+  background: rgb(238,238,228);
 }

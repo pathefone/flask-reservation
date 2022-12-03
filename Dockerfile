@@ -6,5 +6,5 @@ WORKDIR /code
 
 RUN pip install -r requirements.txt
 
-CMD python index.py
+CMD python app.py
 
